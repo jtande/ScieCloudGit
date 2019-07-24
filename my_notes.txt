@@ -1,2 +1,4 @@
 Part 1: The basics of git
  * Git is used for version control
+Part 2 create a new repository on the command line
+ * creted a new file to add notes in it
